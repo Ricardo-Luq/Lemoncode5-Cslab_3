@@ -1,0 +1,15 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\bin\Debug\net5.0\cs3-app1-ReadBooks.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\refint\cs3-app1-ReadBooks.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\cs3-app1-ReadBooks.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app1-ReadBooks\obj\Debug\net5.0\ref\cs3-app1-ReadBooks.dll

@@ -1,0 +1,15 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\bin\Debug\net5.0\cs3-app2-SlotMachine.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\refint\cs3-app2-SlotMachine.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\cs3-app2-SlotMachine.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-3-solution\cs3-app2-SlotMachine\obj\Debug\net5.0\ref\cs3-app2-SlotMachine.dll
